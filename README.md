@@ -2,7 +2,7 @@
 
 **组织化团队通讯：提炼频道、主题、消息和协作工作流。**
 
-[标准库](https://github.com/recipkg/standard-library) · [配方清单](RECIPE.md) · [构建要求](BUILD_PROMPT.md) · [验收条件](ACCEPTANCE.md) · [来源与覆盖](COVERAGE.md)
+[标准库](https://github.com/recipkg/standard-library) · [配方清单](RECIPE.md) · [构建要求](BUILD_PROMPT.md) · [事件同步](EVENT-SYNC-SOURCE.md) · [验收条件](ACCEPTANCE.md) · [来源与覆盖](COVERAGE.md)
 
 ![从软件与依赖整理配方，再交给 Agent 重建](https://raw.githubusercontent.com/recipkg/recipkg/main/assets/recipkg-cover.png)
 

@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "zulip"
-version = "0.1.1"
+version = "0.1.2"
 kind = "software"
 description = "Zulip 组织化团队通讯产品的重建配方；当前仍在提取。"
 entry = "BUILD_PROMPT.md"
